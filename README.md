@@ -10,7 +10,7 @@ I enjoy building high-performance web applications, scalable backend systems, an
 
 <br/>
 
-<a href="www.linkedin.com/in/nabeel-shafqat-07504330a">
+<a href="https://www.linkedin.com/in/nabeel-shafqat-07504330a">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -92,7 +92,6 @@ I’m passionate about writing clean code, learning modern technologies, and bui
 → Microservices Architecture
 → Performance Optimization
 → Production-Level Application Design
-````
 
 
 # 📂 Featured Work
@@ -128,7 +127,7 @@ Explore my pinned repositories below 👇
 
 <div align="center">
 
-<a href="www.linkedin.com/in/nabeel-shafqat-07504330a">
+<a href="https://www.linkedin.com/in/nabeel-shafqat-07504330a">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
