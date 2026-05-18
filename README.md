@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 # Nabeel Shafqat
@@ -87,7 +86,6 @@ I’m passionate about writing clean code, learning modern technologies, and bui
 
 # 🧠 Currently Exploring
 
-```txt
 → Scalable System Architecture
 → Advanced Backend Engineering
 → AI Integration
@@ -96,7 +94,6 @@ I’m passionate about writing clean code, learning modern technologies, and bui
 → Production-Level Application Design
 ````
 
----
 
 # 📂 Featured Work
 
